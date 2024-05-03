@@ -1,0 +1,13 @@
+train: /media/ijmg/SSD_FOUR_TB/ACADEMICS_101/a_Florida_Atlantic_University/MSOE/COT_5930_Dig_Image_Process/PROJECT/video_labeling_segmenting/train
+val: /media/ijmg/SSD_FOUR_TB/ACADEMICS_101/a_Florida_Atlantic_University/MSOE/COT_5930_Dig_Image_Process/PROJECT/video_labeling_segmenting/val
+nc: 6
+
+names: ["beach", "foliage", "land", "ocean", "sky", "structure"]
+
+
+
+
+
+
+
+

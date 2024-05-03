@@ -1,0 +1,6 @@
+beach
+foliage
+land
+ocean
+sky
+structure
